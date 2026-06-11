@@ -1,1 +1,1 @@
-badge-test
+badge test
